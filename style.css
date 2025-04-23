@@ -101,10 +101,10 @@ button:hover{
 
 @media screen and (max-width: 780px) {
   div{
-    width: 70%;
-    height: auto;
+    width: 90vw;
+    height: 80vh;
     padding: 10px;
-    margin-left: 20px;
+    
     margin-top: 20px;
     
 }
