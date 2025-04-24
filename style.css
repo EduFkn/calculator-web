@@ -99,12 +99,12 @@ button:hover{
 }
 
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 800px) {
   div{
     width: 90vw;
     height: 80vh;
     padding: 10px;
-    
+    margin-bottom:20px;
     margin-top: 20px;
     
 }
